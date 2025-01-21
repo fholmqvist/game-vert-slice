@@ -1,0 +1,13 @@
+[package]
+name = "mq_evaluation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+macroquad = "0.4.13"
+macroquad-profiler = "0.2.0"
+rand = "0.8.5"
+hecs = "0.10.5"
+kd-tree = "0.5.3"
+typenum = "1.17.0"
+pathfinding = "4.13.1"
